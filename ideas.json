@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "atlas-cold-chain",
+    "title": "Atlas Cold Chain",
+    "sector": "Logistics / Climate",
+    "raiseUsd": 850000,
+    "equityPercent": 9,
+    "tagline": "Sensor-native refrigeration for last-mile biologics in Sun Belt metros.",
+    "sections": [
+      { "titleKey": "summary", "body": "Atlas installs retrofit IoT cold pods inside independent pharmacy networks, synchronizing temperature proofs with insurer-grade audit trails. We sell compliance as a subscription, not hardware capex." },
+      { "titleKey": "market", "body": "Biologic prescriptions grew 4.1× in southern states over five years, while carrier reliability flatlined. Regulatory scrutiny on spoilage is tightening; pharmacies need passive telemetry, not clipboard logs." },
+      { "titleKey": "product", "body": "Edge firmware on Nordic silicon, redundant probes, and a web dashboard that lawyers actually enjoy reading. Patent pending on our thermal fingerprinting heuristic." },
+      { "titleKey": "traction", "body": "Piloted with 38 locations across Austin and Phoenix. 99.992% uptime on readings, −41% insurance rider premiums in early cohort, $190k ARR under LOIs." },
+      { "titleKey": "plan", "body": "Expand field engineering pod, certify two additional states, and ship API hooks for Epic-sidecar integrations. Marketing stays founder-led until Series A narrative is airtight." },
+      { "titleKey": "useOfFunds", "body": "$320k hires (2 firmware, 1 compliance), $210k inventory float, $190k regulatory counsel & certifications, $130k working capital buffer." },
+      { "titleKey": "milestones", "body": "Q3: 120 live pods. Q4: SOC 2 Type I complete. Q1 next year: channel partnership with top-three regional wholesaler." },
+      { "titleKey": "risks", "body": "Hardware lead times, state-by-state pharmacy board quirks, potential copycats from legacy cold-chain giants. Mitigation: modular BOM, aggressive documentation, and exclusivity windows with anchor tenants." },
+      { "titleKey": "ask", "body": "Seeking $850k on a SAFE plus side letter outlining 9% equity at next priced round, with pro-rata for strategic operators who open doors in healthcare distribution." }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "lumen-notebooks",
+    "title": "Lumen Notebooks",
+    "sector": "Productivity / ML",
+    "raiseUsd": 1200000,
+    "equityPercent": 11,
+    "tagline": "Local-first notebooks where every cell knows your team's semantic graph.",
+    "sections": [
+      { "titleKey": "summary", "body": "Lumen fuses collaborative notebooks with on-device embeddings so analysts can query institutional memory without shipping raw data to the cloud. Think 'Figma meets Wolfram' for quant and policy teams." },
+      { "titleKey": "market", "body": "Fortune 500 analytics units are paralyzed between ChatGPT curiosity and infosec terror. Buyers want LLM ergonomics with deterministic audit logs—budget lines now exist, not just pilots." },
+      { "titleKey": "product", "body": "Rust core, CRDT sync, optional air-gapped mode. Model adapters plug in like VS Code extensions. Every export is a signed Merkle tree for compliance officers who lose sleep." },
+      { "titleKey": "traction", "body": "Design partners in fintech and defense; 620 weekly active devs on private beta; waitlist north of 4k. Paid POC averaging $27k ARR equivalent." },
+      { "titleKey": "plan", "body": "Ship enterprise SSO, finalize SOC 2, hire developer relations lead from a household-name IDE, and run a controlled launch in regulated industries first—glamour later." },
+      { "titleKey": "useOfFunds", "body": "$480k engineering, $260k security audits, $220k GTM experiments, $240k reserve for GPU appliance bundles for offline clients." },
+      { "titleKey": "milestones", "body": "90 days: SOC 2 Type I underway. 180 days: three referenceable enterprise logos. 270 days: marketplace for third-party model adapters." },
+      { "titleKey": "risks", "body": "Incumbent notebook vendors could clone features; hiring security talent is expensive; model licensing is a maze. Mitigation: OSS wedge, advisory board with former regulators, ruthless focus on auditability." },
+      { "titleKey": "ask", "body": "Raising $1.2M seed extension at 11% equity for a partner who understands developer tooling GTM and can navigate procurement in regulated stacks." }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "harbor-compost",
+    "title": "Harbor Compost Collective",
+    "sector": "Climate / AgTech",
+    "raiseUsd": 410000,
+    "equityPercent": 7,
+    "tagline": "Neighborhood-scale compost that pays apartment towers for their organics stream.",
+    "sections": [
+      { "titleKey": "summary", "body": "Harbor places modular digesters in multifamily parking structures, turning food waste into certified soil amendments sold to regional growers. Revenue shares flow back to buildings as ESG storytelling fuel." },
+      { "titleKey": "market", "body": "Coastal cities are passing organics mandates faster than haulers can adapt. Property managers need turnkey compliance without smell complaints—we deliver odor-neutral industrial design and SMS alerts." },
+      { "titleKey": "product", "body": "Carbon-fiber reinforced vessels, biofilter stack, and a logistics OS that syncs with existing waste brokers. Smells like nothing; dashboards smell like victory." },
+      { "titleKey": "traction", "body": "Two towers live in San Diego, diverting 38 tons monthly. LOIs for six additional assets. Soil offtake agreements at 112% of model price." },
+      { "titleKey": "plan", "body": "Fabricate fourth-generation vessel with faster clean-out, onboard a municipal advisor, and lock rolling fund vehicle for asset co-investors." },
+      { "titleKey": "useOfFunds", "body": "$160k manufacturing deposit, $95k permitting sprint, $85k sales engineer, $70k working capital for soil blending partnerships." },
+      { "titleKey": "milestones", "body": "6 months: five towers. 12 months: franchisable playbook for Sunbelt cities. 18 months: offtake contracts covering 80% of output." },
+      { "titleKey": "risks", "body": "Zoning delays, commodity swings in compost pricing, equipment wear in salty air. Mitigation: legal templates per city, hedged offtake, marine-grade coatings." },
+      { "titleKey": "ask", "body": "Seeking $410k for 7% equity plus board observer rights for a partner with climate fund credibility and multifamily operator relationships." }
+    ]
+  }
+]
